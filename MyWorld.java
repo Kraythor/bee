@@ -19,6 +19,9 @@ public class MyWorld extends World
         
         beeupdown beeupdown1=new beeupdown();
         addObject(beeupdown1,30,40);
+        
+        cursorbee cursorbee1=new cursorbee();
+        addObject(cursorbee1,30,40);
     }
 
     /**

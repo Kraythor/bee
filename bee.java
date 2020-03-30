@@ -34,6 +34,5 @@ public class bee extends Actor
             }
         } 
         
-
     }    
 }
